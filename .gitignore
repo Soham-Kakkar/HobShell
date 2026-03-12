@@ -1,0 +1,5 @@
+OVMF/*.4m.fd
+diskimg
+*.EFI
+*.elf
+*.o
