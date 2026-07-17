@@ -4,7 +4,7 @@
 #define SHELL_HELPER_H
 
 #include "uefi_base.h"
-#include "../../common/bootinfo.h"
+// #include "../../common/bootinfo.h"
 
 /* ===============================
    Command Table

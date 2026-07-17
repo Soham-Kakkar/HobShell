@@ -3,3 +3,4 @@ diskimg
 *.EFI
 *.elf
 *.o
+elf64.h
