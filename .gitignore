@@ -4,3 +4,4 @@ diskimg
 *.elf
 *.o
 elf64.h
+*loadkernel.*
